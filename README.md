@@ -1,6 +1,6 @@
 Hi there!! 👋
-- 🔭 Student and Aspiring Software Engineer
-- 🌱 Studying C#
+- 🔭 Web & Software Developer
+- 🌱 Studying Javascript
 - 😄 Pronous: she/ her
 
 
