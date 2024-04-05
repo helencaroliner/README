@@ -1,6 +1,6 @@
 Hi there!! 👋
-- 🔭 Software Engineer ⟳
-- 🌱 Studying Android App Development / Kotlin
+- 🔭 Junior Software Engineer ⟳
+- 🌱 Studying Android App Development / Kotlin / Javascript
 - 😄 Pronous: she/ her
 
 
